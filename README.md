@@ -14,15 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## **About Me** ❔💬 <br><br>
+## **About Me** ❔💬
 Motivated software engineer with a passion for building innovative solutions. Specializing in C, C++, Python, and with solid knowledge in C#, Java, JavaScript, and SQL. Eager to collaborate on exciting projects and contribute to the software development community.
 
-## **Projects** 📣❗💻 <br><br>
+## **Projects** 📣❗💻
 
-- **Hiding Data in Executables** <br>
+- **Hiding Data in Executables**
 Developed a PoC (Proof-of-Concept) system in Python to implement data hiding in executables without compromising the functionality of executable.
 
-- **Accessibility Tester** <br>
+- **Accessibility Tester**
 Simple desktop Python GUI program to check accessibilitiy of a given web-site, according to WCAG 2.1.
 
 There are more projects available on the rest of my repositories (Feels free to snoop around 🔭 and fork 🍴)
