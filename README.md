@@ -24,7 +24,7 @@ Developed a PoC (Proof-of-Concept) system in Python to implement data hiding in 
 **Accessibility Tester** <br>
 Simple desktop Python GUI program to check accessibilitiy of a given web-site, according to WCAG 2.1. <br>
 
-There are more projects available on the rest of my repositories (Feels free to snoop around 🔭 and fork 🍴)**
+  There are more projects available on the rest of my repositories (Feels free to snoop around 🔭 and fork 🍴)**
 
 - **Looking to collaborate on** <br>
 Anything challanging 😅, mainly anything that will make other people or developers life easier. I Have dabbled in the past in fields such as - cyber, fullstack, game development, android apps and many more... That's why i'm willing to collaborate in any field, cause even if i don't have any knowledge in that particular field, i'll just learn it 🤓😃.
