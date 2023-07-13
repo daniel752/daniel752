@@ -26,4 +26,5 @@ Simple desktop Python GUI program to check accessibilitiy of a given web-site, a
 **There are more projects available on the rest of my repositories (Feels free to snoop around 🔭 and fork 🍴)**
 
 
-[![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=daniel752)](https://github.com/daniel752/github-readme-stats)
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=jasongaylord&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jasongaylord&langs_count=5&theme=tokyonight)]()
