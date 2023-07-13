@@ -17,11 +17,12 @@ Here are some ideas to get you started:
 - **About Me** ❔💬 <br>
 Motivated software engineer with a passion for building innovative solutions. Specializing in C, C++, Python, and with solid knowledge in C#, Java, JavaScript, and SQL. Eager to collaborate on exciting projects and contribute to the software development community.
 
+
 - **Projects** 📣❗💻 <br>
 **Hiding Data in Executables** <br>
-Developed a PoC (Proof-of-Concept) system in Python to implement data hiding in executables without compromising the functionality of executable.
+Developed a PoC (Proof-of-Concept) system in Python to implement data hiding in executables without compromising the functionality of executable. <br>
 **Accessibility Tester** <br>
-Simple desktop Python GUI program to check accessibilitiy of a given web-site, according to WCAG 2.1.
+Simple desktop Python GUI program to check accessibilitiy of a given web-site, according to WCAG 2.1. <br>
 
 There are more projects available on the rest of my repositories (Feels free to snoop around 🔭 and fork 🍴)**
 
