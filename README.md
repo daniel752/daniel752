@@ -23,7 +23,7 @@ Developed a PoC (Proof-of-Concept) system in Python to implement data hiding in 
 ### Accessibility Tester
 Simple desktop Python GUI program to check accessibilitiy of a given web-site, according to WCAG 2.1.
 
-### There are more projects available on the rest of my repositories (Feels free to snoop around 🔭 and fork 🍴)
+**There are more projects available on the rest of my repositories (Feels free to snoop around 🔭 and fork 🍴)**
 
 
 [![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=daniel752)](https://github.com/daniel752/github-readme-stats)
