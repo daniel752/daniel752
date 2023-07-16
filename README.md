@@ -33,5 +33,5 @@ Anything challanging 😅, mainly anything that will make other people or develo
 ## **Contact 📧**
 daniel4800@gmail.com
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=daniel752&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=daniel752&count_private=true&hide_rank=true&layout=donut&theme=tokyonight&showicons=true)]()
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=daniel752&langs_count=5&theme=tokyonight)]()
