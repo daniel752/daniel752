@@ -19,10 +19,13 @@ Motivated software engineer with a passion for building innovative solutions. Sp
 
 ## **Projects** 📣❗💻
 
-- **Hiding Data in Executables** <br>
+- **MarkdownZen** <br/>
+MarkdownZen is a web application designed to streamline the creation and management of markdown documents. With a user-friendly interface and powerful features, MarkdownZen is your go-to tool for a zenful markdown experience.
+
+- **Hiding Data in Executables** <br/>
 Developed a PoC (Proof-of-Concept) system in Python to implement data hiding in executables without compromising the functionality of executable.
 
-- **Accessibility Tester** <br>
+- **Accessibility Tester** <br/>
 Simple desktop Python GUI program to check accessibilitiy of a given web-site, according to WCAG 2.1.
 
 There are more projects available on the rest of my repositories (Feels free to snoop around 🔭 and fork 🍴)
