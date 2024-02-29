@@ -18,6 +18,8 @@ Here are some ideas to get you started:
 Motivated software engineer with a passion for building innovative solutions. Specializing in C, C++, Python, and with solid knowledge in C#, Java, JavaScript, and SQL. Eager to collaborate on exciting projects and contribute to the software development community.
 
 ## **Projects** 📣❗💻
+- **OpenGL Tutorial** <br/>
+This tutorial is a compilation of mini projects i've done while learning the fundamentals of OpenGL (2D/3D graphics).
 
 - **MarkdownZen** <br/>
 MarkdownZen is a web application designed to streamline the creation and management of markdown documents. With a user-friendly interface and powerful features, MarkdownZen is your go-to tool for a zenful markdown experience.
