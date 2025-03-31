@@ -2,42 +2,56 @@
 
 <!--
 **daniel752/daniel752** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+
 ## **About Me** ❔💬
-Motivated software engineer with a passion for building innovative solutions. Specializing in C, C++, Python, and with solid knowledge in C#, Java, JavaScript, and SQL. Eager to collaborate on exciting projects and contribute to the software development community.
+I'm a backend developer with a strong passion for creating scalable, secure, and intelligent systems. My primary stack includes **Python**, **FastAPI**, **Flask**, and various database technologies like **MongoDB**, **PostgreSQL**, and **MySQL**. I bring practical experience in **AI/ML**, cloud infrastructure (**GCP, AWS**), containerization (**Docker, Kubernetes**), and search technologies (**Meilisearch, FAISS**).
+
+I thrive in agile teams, love solving complex problems, and always aim to learn something new. Let’s build something meaningful together.
+
+## **Skills** 💡🛠️
+
+- **Languages & Frameworks**: Python, C, C++, C#, Java, JavaScript, SQL, FastAPI, Flask  
+- **AI/ML & Search**: TensorFlow, PyTorch, Google Vertex AI, FAISS, Meilisearch  
+- **Cloud & DevOps**: GCP (GKE), AWS (ECR/ECS), Docker, Kubernetes  
+- **Databases**: MongoDB, PostgreSQL, MySQL  
+- **Other**: API Development, CI/CD, OOP, Design Patterns, Authentication, Middleware, Web Security
 
 ## **Projects** 📣❗💻
-- **OpenGL Tutorial** <br/>
-This tutorial is a compilation of mini projects i've done while learning the fundamentals of OpenGL (2D/3D graphics).
 
-- **MarkdownZen** <br/>
-MarkdownZen is a web application designed to streamline the creation and management of markdown documents. With a user-friendly interface and powerful features, MarkdownZen is your go-to tool for a zenful markdown experience.
+### 🔓 Public Projects
 
-- **Hiding Data in Executables** <br/>
-Developed a PoC (Proof-of-Concept) system in Python to implement data hiding in executables without compromising the functionality of executable.
+- **🌀 OpenGL Tutorial**  
+  A hands-on journey through 2D/3D rendering fundamentals using OpenGL.
 
-- **Accessibility Tester** <br/>
-Simple desktop Python GUI program to check accessibilitiy of a given web-site, according to WCAG 2.1.
+- **📝 MarkdownZen**  
+  A sleek web app to create and manage markdown documents with ease.
 
-There are more projects available on the rest of my repositories (Feels free to snoop around 🔭 and fork 🍴)
+- **🕵️ Hiding Data in Executables**  
+  A PoC system to hide data in executables using Python, without affecting functionality.
 
-## **Looking to collaborate on** 👐🤗
-Anything challanging 😅, mainly anything that will make other people or developers life easier. I Have dabbled in the past in fields such as - cyber, fullstack, game development, android apps and many more... That's why i'm willing to collaborate in any field, cause even if i don't have any knowledge in that particular field, i'll just learn it 🤓😃.
+- **♿ Accessibility Tester**  
+  Desktop tool to check web accessibility per WCAG 2.1 guidelines.
+
+### 🏢 Professional Work
+*(Code not public, but real-world experience)*
+
+- **🧠 Marvad-AI Plagiarism Detection**  
+  Built a scalable plagiarism detection system using **Google Vertex AI** and deployed on **GKE**, leveraging document embeddings and cosine similarity.
+
+- **🔍 Bezeq AI Search**  
+  Developed a hybrid **vector + lexical search** backend using **FAISS** and **Meilisearch**, deployed with **AWS ECS** for production use in Bezeq's online store.
+
+There are more cool projects in my other repos — feel free to snoop around 🔭 or fork 🍴!
+
+## **Looking to Collaborate On** 👐🤗
+I'm open to working on anything challenging, especially tools that help others — whether it's dev tools, AI utilities, backend systems, or something completely new. I’ve explored fields like cybersecurity, full-stack, game dev, Android apps, and more. If I don’t know it yet, I’ll learn it 🤓😃.
 
 ## **Contact 📧**
-daniel4800@gmail.com <br>
+- 📫 Email: danielarbiv752@gmail.com  
+- 🌐 Website: [daniel752.github.io](https://daniel752.github.io)  
+- 💼 LinkedIn: [linkedin.com/in/dsa12](https://www.linkedin.com/in/dsa12)
 
-## **GitHub Stats** <br>
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/daniel752?cardType=level-alternate&theme=github-dark&preferLogin=false)]()
+## **GitHub Stats** 📊
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/daniel752?cardType=level-alternate&theme=github-dark&preferLogin=false)]()  
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=daniel752&layout=donut&langs_count=6&theme=tokyonight)]()
